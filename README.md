@@ -6,11 +6,11 @@
 | Field | Details |
 |-------|---------|
 | **Intern Name** | Yash Gamare |
-| **Intern ID** | *(Your CodTech Intern ID)* |
+| **Intern ID** | CITS4255 |
 | **Domain** | Data Science & Analytics |
 | **Project** | Sales Trend Visualization |
 | **Level** | Advanced |
-| **Mentor** | *(Mentor Name)* |
+
 
 ---
 
